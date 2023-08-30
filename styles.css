@@ -1,34 +1,5 @@
 /*  your css code here. If applicable */
-.destination {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f8f8f8;
-    border: 2px solid #ccc;
-    border-radius: 10px;
-    text-align: center;
-    font-family: Arial, sans-serif;
-}
-
-h1 {
-    color: #333;
-}
-
-p {
-    color: #555;
-}
-
-ol, ul {
-    list-style-type: disc;
-    margin-left: 20px;
-}
-
-strong {
-    font-weight: bold;
-    color: #007bff;
-}
-
-em {
-    font-style: italic;
-    color: #ff8000;
+.*{
+	margin:0px;
+	padding:0px;
 }
